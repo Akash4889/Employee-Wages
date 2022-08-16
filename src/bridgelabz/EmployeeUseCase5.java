@@ -1,6 +1,6 @@
 package bridgelabz;
 
-public class employeewage {
+public class EmployeeUseCase5 {
         public static void main(String[] args){
 
             int wagePerHour=20;

@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24856661-971f-4f47-8c35-55215268d7a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java problems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridgelabz/employeewage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bridgelabz/employeewage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +44,48 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="employeewage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bridgelabz.employeewage" />
+  <component name="RunManager" selected="Application.EmployeeUseCase2">
+    <configuration name="EmployeeUseCase1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bridgelabz.EmployeeUseCase1" />
+      <module name="Java problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeUseCase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bridgelabz.EmployeeUseCase2" />
+      <module name="Java problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeUseCase5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bridgelabz.EmployeeUseCase5" />
+      <module name="Java problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeUseCase6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bridgelabz.EmployeeUseCase6" />
       <module name="Java problems" />
       <extension name="coverage">
         <pattern>
@@ -59,7 +99,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.employeewage" />
+        <item itemvalue="Application.EmployeeUseCase2" />
+        <item itemvalue="Application.EmployeeUseCase6" />
+        <item itemvalue="Application.EmployeeUseCase1" />
+        <item itemvalue="Application.EmployeeUseCase5" />
       </list>
     </recent_temporary>
   </component>
