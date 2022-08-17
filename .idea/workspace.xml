@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24856661-971f-4f47-8c35-55215268d7a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceday4/Problem9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bridgelabz/employeewage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bridgelabz/EmployeeUseCase5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +29,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/practiceday4/Problem4.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2DQn9T4VCW8DlnVUfoGUAKnh94a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,21 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.EmployeeUseCase2">
-    <configuration name="EmployeeUseCase1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bridgelabz.EmployeeUseCase1" />
+}</component>
+  <component name="RunManager" selected="Application.Problem4">
+    <configuration name="Problem10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceday4.Problem10" />
       <module name="Java problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bridgelabz.*" />
+          <option name="PATTERN" value="practiceday4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeUseCase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bridgelabz.EmployeeUseCase2" />
+    <configuration name="Problem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceday4.Problem4" />
       <module name="Java problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bridgelabz.*" />
+          <option name="PATTERN" value="practiceday4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeUseCase5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bridgelabz.EmployeeUseCase5" />
+    <configuration name="Problem7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceday4.Problem7" />
       <module name="Java problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bridgelabz.*" />
+          <option name="PATTERN" value="practiceday4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +93,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeUseCase6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bridgelabz.EmployeeUseCase6" />
+    <configuration name="Problem8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceday4.Problem8" />
       <module name="Java problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bridgelabz.*" />
+          <option name="PATTERN" value="practiceday4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceday4.Problem9" />
+      <module name="Java problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceday4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,10 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeUseCase2" />
-        <item itemvalue="Application.EmployeeUseCase6" />
-        <item itemvalue="Application.EmployeeUseCase1" />
-        <item itemvalue="Application.EmployeeUseCase5" />
+        <item itemvalue="Application.Problem4" />
+        <item itemvalue="Application.Problem8" />
+        <item itemvalue="Application.Problem9" />
+        <item itemvalue="Application.Problem10" />
+        <item itemvalue="Application.Problem7" />
       </list>
     </recent_temporary>
   </component>
